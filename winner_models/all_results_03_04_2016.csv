@@ -1,0 +1,306 @@
+Sun, 03 Apr 2016 07:16:51;xg_grid_cummulative_092828_9_6_110_0.00832.csv;0.840758
+Edit description;;
+Sat, 02 Apr 2016 18:57:35;partly_predict_round2_215715_2200_0.1_0.2_0.99_0.01.csv;0.842323
+Edit description;;
+Sat, 02 Apr 2016 18:44:46;partly_predict_21_44_24_0.01_0.1_0.95_0.05_round2.csv;0.842244
+Edit description;;
+Sat, 02 Apr 2016 18:39:49;xg_grid_cummulative_final_ens_213907_110_0.00041.csv;0.842289
+Edit description;;
+Sat, 02 Apr 2016 18:34:47;h2o_xgb_grid_cv_1_2_21_06_21_1002_0.839499546526016_0.0106374827787549_7500_4_0.001_0.3_0.5.csv;0.838323
+Edit description;;
+Sat, 02 Apr 2016 18:20:32;xg_grid_cummulative_211748_2_6_110_0.00504.csv;0.840769
+Edit description;;
+Fri, 01 Apr 2016 22:19:54;xg_grid_cummulative_214957_1_6_110_0.00512.csv;0.840720
+Edit description;;
+Fri, 01 Apr 2016 22:19:00;xg_grid_214956_1_6_110_1006_5_0.01_0.7_0.7_0.8423416_831_0.00599.csv;0.840735
+Edit description;;
+Fri, 01 Apr 2016 19:20:41;h2o_xgb_grid_cv_38_1_19_16_47_100038_0.838330919407302_1000_balanced_5_0.005_0.5_0.7.csv;0.839642
+Edit description;;
+Fri, 01 Apr 2016 19:18:21;h2o_xgb_grid_cv_38_1_18_13_32_100038_0.837466094177465_1000_not_balanced_5_0.005_0.5_0.7.csv;0.837200
+Edit description;;
+Fri, 01 Apr 2016 13:25:28;top_bagging_regression_162513_1.3_2.csv;0.840160
+Edit description;;
+Thu, 31 Mar 2016 18:11:32;partly_predict_21_11_10_1000_0.1_0.2_0.9_0.1.csv;0.842238
+Edit description;;
+Thu, 31 Mar 2016 18:09:42;partly_predict_21_09_14_2200_0.1_0.2_0.99_0.01.csv;0.842299
+Edit description;;
+Thu, 31 Mar 2016 17:55:00;partly_predict_20_54_08_2200_0.1_0.2_0.99_0.01.csv;0.842298
+Edit description;;
+Thu, 31 Mar 2016 17:48:08;partly_predict_20_47_24_2200_0.1_0.2_0.9_0.1.csv;0.842243
+Edit description;;
+Thu, 31 Mar 2016 12:24:43;partly_predict_15_22_19_1700_0.01_0.1_0.9_0.1.csv;0.842273
+Edit description;;
+Wed, 30 Mar 2016 21:07:28;partly_predict_00_07_21_0.01_0.1_0.85_0.15.csv;0.842319
+Edit description;;
+Wed, 30 Mar 2016 21:06:33;partly_predict_00_06_28_0.01_0.1_0.95_0.05.csv;0.842312
+Edit description;;
+Wed, 30 Mar 2016 21:04:12;partly_predict_00_04_07_0.01_0.1_0.8_0.2.csv;0.842314
+Edit description;;
+Wed, 30 Mar 2016 21:03:13;partly_predict_00_03_07_0.01_0.1_0.7_0.3.csv;0.842103
+Edit description;;
+Wed, 30 Mar 2016 21:02:09;partly_predict_00_01_10_0.01_0.1_0.9_0.1.csv;0.842324
+Edit description;;
+Tue, 29 Mar 2016 20:33:50;regression_minus_23_33_45_50_25_0_0.013_10.csv;0.842296
+Edit description;;
+Tue, 29 Mar 2016 20:32:36;regression_minus_23_32_31_50_25_0_0.015_10.csv;0.841984
+Edit description;;
+Tue, 29 Mar 2016 20:31:20;regression_minus_23_31_20_50_25_0_0.012_10.csv;0.842282
+Edit description;;
+Tue, 29 Mar 2016 19:11:42;xg_bagging_1_1_22_10_39_110_10010001_5_0.005_0.5_0.7.csv;0.840565
+Edit description;;
+Tue, 29 Mar 2016 11:45:33;xgboost_bag_total__100_19_56_00_110_1100_5_0.001_0.5_0.7_9000_0.00501.csv;0.840640
+Edit description;;
+Mon, 28 Mar 2016 15:31:01;xgboost_bag_last10__10_15_06_49_110_1010_5_0.001_0.5_0.7_9000_0.00509.csv;0.840576
+Edit description;;
+Mon, 28 Mar 2016 15:30:23;xgboost_bag__9_15_03_39_110_1009_5_0.001_0.5_0.7_9000_0.00509.csv;0.840549
+Edit description;;
+Mon, 28 Mar 2016 15:28:43;xgboost_bag__8_15_00_28_110_1008_5_0.001_0.5_0.7_9000_0.00505.csv;0.840637
+Edit description;;
+Mon, 28 Mar 2016 15:28:10;xgboost_bag__7_14_57_18_110_1007_5_0.001_0.5_0.7_9000_0.00504.csv;0.840602
+Edit description;;
+Mon, 28 Mar 2016 15:27:37;xgboost_bag__6_14_54_07_110_1006_5_0.001_0.5_0.7_9000_0.00516.csv;0.840546
+Edit description;;
+Sun, 27 Mar 2016 09:28:53;regression_minus_trend_12_28_45_51_0.01_0.005_2.csv;0.842083
+Edit description;;
+Sun, 27 Mar 2016 09:12:52;regression_minus_trend_12_12_44_51_0.1_2.csv;0.841519
+Edit description;;
+Sun, 27 Mar 2016 09:05:08;regression_minus_trend_12_05_01_51_0.005_0.001_2.csv;0.842132
+Edit description;;
+Sun, 27 Mar 2016 09:02:17;regression_minus_trend_12_02_12_51_0.005_0.001_10.csv;0.842139
+Edit description;;
+Sun, 27 Mar 2016 08:57:02;regression_minus_trend_11_56_44_51_0.01_0.001_10.csv;0.840480
+Edit description;;
+Sat, 26 Mar 2016 00:35:48;regression_minus_02_35_36_50_25_0_0.05_10.csv;0.841585
+Edit description;;
+Sat, 26 Mar 2016 00:26:53;regression_minus_02_26_44_50_24_0_0.005_2.csv;0.842044
+Edit description;;
+Sat, 26 Mar 2016 00:24:26;regression_minus_02_24_16_50_25_0_0.01_1000.csv;0.842230
+Edit description;;
+Sat, 26 Mar 2016 00:23:15;regression_minus_02_23_08_50_25_0_0.01_100.csv;0.842230
+Edit description;;
+Sat, 26 Mar 2016 00:14:45;regression_minus_wo_regr_02_14_13_90_47_0_0.01_10.csv;0.841690
+Edit description;;
+Fri, 25 Mar 2016 20:28:25;regression_minus_22_28_16_50_24_0_0.01_10.csv;0.841757
+Edit description;;
+Fri, 25 Mar 2016 20:27:03;regression_minus_22_26_45_50_25_0_0.01_10.csv;0.842230
+Edit description;;
+Fri, 25 Mar 2016 20:24:54;regression_minus_22_24_44_50_26_0_0.01_100.csv;0.842114
+Edit description;;
+Fri, 25 Mar 2016 20:23:59;regression_minus_22_23_44_50_26_0_0.01_10.csv;0.842114
+Edit description;;
+Fri, 25 Mar 2016 20:22:24;regression_minus_22_22_20_50_27_0_0.01_10.csv;0.842086
+Edit description;;
+Thu, 24 Mar 2016 18:59:49;h2o_gbm_20_59_22_top_ensemble_deep_winner841287_04_06_01.csv;0.842077
+Edit description;;
+Thu, 24 Mar 2016 18:58:11;h2o_gbm_20_57_55_top_ensemble_deep_winner841287_04_06_01.csv;0.839442
+Edit description;;
+Thu, 24 Mar 2016 18:54:49;h2o_gbm_20_54_31_top_ensemble_deep_winner841287_05_05.csv;0.842036
+Edit description;;
+Thu, 24 Mar 2016 18:52:09;h2o_gbm_22_53_15_top_ensemble_deep_winner841287_04_06.csv;0.842078
+Edit description;;
+Thu, 24 Mar 2016 18:49:51;h2o_gbm_22_52_45_top_ensemble_deep_winner841287_03_07.csv;0.842002
+Edit description;;
+Wed, 23 Mar 2016 09:57:24;regression_minus_11_57_11_0.01_2.csv;0.841870
+Edit description;;
+Wed, 23 Mar 2016 09:56:28;regression_minus_11_56_20_0.01_1.csv;0.841909
+Edit description;;
+Wed, 23 Mar 2016 09:55:23;regression_minus_11_55_09_0.01_5.csv;0.841894
+Edit description;;
+Wed, 23 Mar 2016 09:54:08;regression_minus_11_53_41_0.01_10.csv;0.841888
+Edit description;;
+Wed, 23 Mar 2016 07:30:31;regression_minus.csv;0.841880
+Edit description;;
+Tue, 22 Mar 2016 22:51:36;h2o_gbm_00_51_12_top_ensemble_deep_winner841287_02_08.csv;0.841877
+Edit description;;
+Tue, 22 Mar 2016 22:46:55;h2o_gbm_22_44_54_top_ensemble_deep_winner841287.csv;0.841632
+Edit description;;
+Tue, 22 Mar 2016 22:44:55;h2o_gbm_22_44_01_top_ensemble.csv;0.839442
+Edit description;;
+Tue, 22 Mar 2016 22:10:07;h2o_deeplearning_bag_winner841287_00_09_50_0.1_0.9_1000_30_10.csv;0.840693
+Edit description;;
+Tue, 22 Mar 2016 22:02:36;h2o_deeplearning_23_56_42_1000_30_10.csv;0.798164
+Edit description;;
+Mon, 21 Mar 2016 00:44:25;glm_combined_filtered_max_02_43_49.csv;0.841344
+Edit description;;
+Mon, 21 Mar 2016 00:38:07;glm_combined_filtered_02_30_53.csv;0.841344
+Edit description;;
+Mon, 21 Mar 2016 00:31:15;glm_combined_filtered_02_30_53.csv;0.841344
+Edit description;;
+Mon, 21 Mar 2016 00:28:15;glm_combined_filtered_02_27_54.csv;0.841347
+Edit description;;
+Mon, 21 Mar 2016 00:27:11;glm_combined_filtered_02_26_57.csv;0.841348
+Edit description;;
+Sun, 20 Mar 2016 21:35:33;xg_bag_23_34_18_ensemble.csv;0.839987
+Edit description;;
+Sun, 20 Mar 2016 17:17:05;h2o_deeplearning_bag_winner841287-bag_10_03_0594-0.9-0.1_19_16_43.csv;0.841320
+Edit description;;
+Sun, 20 Mar 2016 17:14:35;h2o_deeplearning_bag_winner841287-bag_10_03_0594_19_13_55.csv;0.841278
+Edit description;;
+Sun, 20 Mar 2016 00:06:23;h2o_deeplearning_bag_winner841287_02_05_57_0.4_0.6_2000_100_100_100_100_100.csv;0.841323
+Edit description;;
+Sun, 20 Mar 2016 00:04:29;h2o_deeplearning_bag_winner841287_01_44_15_2000_100_100_100_100_100.csv;0.841344
+Edit description;;
+Sat, 19 Mar 2016 07:38:16;xg_grid_cv_bag_09_38_0247.csv;0.841287
+Edit description;;
+Sat, 19 Mar 2016 07:16:47;xg_grid_cv_bag_09_16_2747.csv;0.841263
+Edit description;;
+Sat, 19 Mar 2016 07:15:36;xg_grid_cv_bag_09_15_1847.csv;0.841204
+Edit description;;
+Sat, 19 Mar 2016 07:14:09;xg_gradient_1_1_01_10_09_145_1001_5_0.005_0.5_0.7_0.00619.csv;0.840356
+Edit description;;
+Sat, 19 Mar 2016 07:13:13;xg_gradient_1_1_01_05_27_145_1001_5_0.005_0.5_0.7_0.00619.csv;0.840356
+Edit description;;
+Fri, 18 Mar 2016 02:00:09;xg_grid_cv_bag_03_59_403.csv;0.840759
+Edit description;;
+Fri, 18 Mar 2016 01:58:51;xg_grid_cv_bag_03_58_113.csv;0.841132
+Edit description;;
+Fri, 18 Mar 2016 01:02:32;xg_grid_cv_bag_03_02_099.csv;0.841140
+Edit description;;
+Fri, 18 Mar 2016 01:00:45;xg_grid_cv_bag_03_00_109.csv;0.841124
+Edit description;;
+Fri, 18 Mar 2016 00:57:33;xg_grid_cv_bag_02_56_599.csv;0.840786
+Edit description;;
+Thu, 17 Mar 2016 22:05:04;xg_gradient_bag_00_04_4115.csv;0.840622
+Edit description;;
+Thu, 17 Mar 2016 21:40:38;xg_gradient_1_5_23_40_21_192_1005_800_5_0.01_0.5_0.8_0.00354767844075868.csv;0.840433
+Edit description;;
+Thu, 17 Mar 2016 21:39:39;xg_gradient_1_4_23_38_26_192_1004_800_5_0.01_0.5_0.8_0.00353130259680872.csv;0.840112
+Edit description;;
+Thu, 17 Mar 2016 20:53:45;xg_gradient_1_6_22_17_30_192_1006_900_5_0.01_0.5_0.8.csv;0.840469
+Edit description;;
+Thu, 17 Mar 2016 20:53:00;xg_gradient_1_3_22_12_19_192_1003_900_5_0.01_0.5_0.8.csv;0.840690
+Edit description;;
+Wed, 16 Mar 2016 08:49:05;xg_grid_cv_max_16_03_19_28_192_1016_0.842364_842_4_0.01_0.7_0.6.csv;0.840026
+Edit description;;
+Wed, 16 Mar 2016 08:45:31;xg_grid_cv_max_62_09_32_52_192_1062_0.842158_906_5_0.01_0.5_0.7.csv;0.840450
+Edit description;;
+Wed, 16 Mar 2016 08:44:44;xg_grid_cv_max_44_07_17_13_192_1044_0.84261_834_5_0.01_0.5_0.7.csv;0.840474
+Edit description;;
+Wed, 16 Mar 2016 08:43:46;xg_grid_cv_max_27_05_01_56_192_1027_0.842275_799_5_0.01_0.5_0.7.csv;0.840304
+Edit description;;
+Wed, 16 Mar 2016 08:41:58;xg_grid_cv_max_26_04_45_23_192_1026_0.842781_895_5_0.01_0.5_0.7.csv;0.841003
+Edit description;;
+Tue, 15 Mar 2016 12:59:01;xg_grid_cv_max_158_19_06_47_278_1158_0.841286_899_6_0.03_0.5_0.8.csv;0.839429
+Edit description;;
+Tue, 15 Mar 2016 12:58:01;xg_grid_cv_max_156_18_43_41_278_1156_0.841334_267_6_0.03_0.5_0.8.csv;0.839800
+Edit description;;
+Tue, 15 Mar 2016 12:57:14;xg_grid_cv_max_155_18_37_37_278_1155_0.841185_280_6_0.03_0.5_0.8.csv;0.840551
+Edit description;;
+Tue, 15 Mar 2016 12:56:32;xg_grid_cv_max_154_18_32_12_278_1154_0.841819_306_6_0.03_0.5_0.8.csv;0.839228
+Edit description;;
+Tue, 15 Mar 2016 12:55:33;xg_grid_cv_max_151_18_21_08_278_1151_0.841403_198_6_0.03_0.5_0.8.csv;0.839452
+Edit description;;
+Mon, 14 Mar 2016 02:21:29;xg_grid_cv_max_119_10_33_16_278_1119_0.841387_145_6_0.03_0.5_0.8.csv;0.839204
+Edit description;;
+Mon, 14 Mar 2016 02:20:55;xg_grid_cv_max_112_10_12_10_278_1112_0.841288_912_6_0.03_0.5_0.8.csv;0.839760
+Edit description;;
+Mon, 14 Mar 2016 02:20:24;xg_grid_cv_max_111_09_46_17_278_1111_0.841918_922_6_0.03_0.5_0.8.csv;0.839681
+Edit description;;
+Mon, 14 Mar 2016 02:19:50;xg_grid_cv_max_108_07_37_26_278_1108_0.841189_232_6_0.03_0.5_0.8.csv;0.839133
+Edit description;;
+Mon, 14 Mar 2016 02:19:16;xg_grid_cv_max_107_07_32_36_278_1107_0.841299_275_6_0.03_0.5_0.8.csv;0.839151
+Edit description;;
+Sun, 13 Mar 2016 12:10:20;xg_grid_cv_max_106_07_27_56_278_1106_0.841532_379_6_0.03_0.5_0.8.csv;0.840359
+Edit description;;
+Sun, 13 Mar 2016 12:09:39;xg_grid_cv_max_103_07_16_06_278_1103_0.841117_191_6_0.03_0.5_0.8.csv;0.840016
+Edit description;;
+Sun, 13 Mar 2016 12:08:51;xg_grid_cv_max_91_06_03_38_278_1091_0.841021_239_6_0.03_0.5_0.8.csv;0.839507
+Edit description;;
+Sun, 13 Mar 2016 12:07:34;xg_grid_cv_max_124_10_56_54_278_1124_0.842104_245_6_0.03_0.5_0.8.csv;0.838982
+Edit description;;
+Sun, 13 Mar 2016 12:06:21;xg_grid_cv_max_80_05_15_52_278_1080_0.84254_714_6_0.03_0.5_0.8.csv;0.840079
+Edit description;;
+Sat, 12 Mar 2016 10:04:52;xg_grid_cv_max_55_02_13_37_278_1055_0.841694_193_6_0.03_0.5_0.8.csv;0.840343
+Edit description;;
+Sat, 12 Mar 2016 10:04:20;xg_grid_cv_max_54_02_10_00_278_1054_0.841889_206_6_0.03_0.5_0.8.csv;0.839915
+Edit description;;
+Sat, 12 Mar 2016 10:03:43;xg_grid_cv_max_54_02_10_00_278_1054_0.841889_206_6_0.03_0.5_0.8.csv;0.839915
+Edit description;;
+Sat, 12 Mar 2016 10:03:13;xg_grid_cv_max_43_00_43_05_278_1043_0.841772_265_6_0.03_0.5_0.8.csv;0.840478
+Edit description;;
+Sat, 12 Mar 2016 10:02:39;xg_grid_cv_max_39_00_16_59_278_1039_0.842077_146_6_0.03_0.5_0.8.csv;0.839156
+Edit description;;
+Fri, 11 Mar 2016 12:55:57;xg_grid_cv_max_32_23_52_35_278_1032_0.842061_651_6_0.03_0.5_0.8.csv;0.839959
+Edit description;;
+Fri, 11 Mar 2016 12:55:09;xg_grid_cv_max_31_23_34_38_278_1031_0.841762_749_6_0.03_0.5_0.8.csv;0.840535
+Edit description;;
+Fri, 11 Mar 2016 12:54:36;xg_grid_cv_max_28_22_30_58_278_1028_0.841176_270_6_0.03_0.5_0.8.csv;0.840333
+Edit description;;
+Fri, 11 Mar 2016 12:54:04;xg_grid_cv_max_27_22_23_51_278_1027_0.842665_276_6_0.03_0.5_0.8.csv;0.840174
+Edit description;;
+Fri, 11 Mar 2016 12:53:28;xg_grid_cv_max_26_22_17_25_278_1026_0.841803_318_6_0.03_0.5_0.8.csv;0.840448
+Edit description;;
+Thu, 10 Mar 2016 05:17:55;xg_grid_cv_bag_07_16_5518.csv;0.840694
+Edit description;;
+Thu, 10 Mar 2016 05:13:49;xg_grid_cv_max_55_15_19_16_248_1055_0.842352_166_5_0.03_0.5_0.8.csv;0.840446
+Edit description;;
+Thu, 10 Mar 2016 05:13:19;xg_grid_cv_max_54_15_16_21_248_1054_0.842203_226_5_0.03_0.5_0.8.csv;0.839974
+Edit description;;
+Thu, 10 Mar 2016 05:12:45;xg_grid_cv_max_39_13_19_52_248_1039_0.842267_145_5_0.03_0.5_0.8.csv;0.839549
+Edit description;;
+Thu, 10 Mar 2016 05:12:11;xg_grid_cv_max_31_12_34_35_248_1031_0.842009_722_5_0.03_0.5_0.8.csv;0.840252
+Edit description;;
+Wed, 09 Mar 2016 08:10:10;xg_grid_cv_max_6_10_05_09_248_1006_0.841637_227_5_0.07_0.5_0.8.csv;0.839988
+Edit description;;
+Wed, 09 Mar 2016 08:09:37;xg_grid_cv_max_3_09_46_28_248_1003_0.841922_130_5_0.07_0.5_0.8.csv;0.838795
+Edit description;;
+Wed, 09 Mar 2016 08:09:17;xg_grid_cv_max_2_09_43_47_248_1002_0.841502_120_4_0.07_0.5_0.8.csv;0.838308
+Edit description;;
+Wed, 09 Mar 2016 06:54:01;xg_bag_08_52_48_rand_75.csv;0.840714
+Edit description;;
+Wed, 09 Mar 2016 06:53:31;xg_grid_cv_08_51_26_248_303_auc_0.03_0.5_0.8.csv;0.839973
+Edit description;;
+Tue, 08 Mar 2016 07:20:48;xg_grid_cv_09_20_27_253_0.1_4_0.05_0.5_0.9.csv;0.840389
+Edit description;;
+Tue, 08 Mar 2016 07:15:54;xg_grid_cv_09_15_28_253_0.1_4_0.05_0.5_0.9.csv;0.838592
+Edit description;;
+Mon, 07 Mar 2016 23:06:56;xg_bag_01_05_42_wo_d_var30_n50_d8.csv;0.830968
+Edit description;;
+Mon, 07 Mar 2016 22:01:22;xg_bag_23_58_47_wo_d_var30_n500.csv;0.832282
+Edit description;;
+Mon, 07 Mar 2016 20:30:53;xg_bag_22_30_30_wo_d_var30_n100.csv;0.834562
+Edit description;;
+Mon, 07 Mar 2016 20:29:54;xg_bag_22_29_34_wo_d_var30_n100.csv;0.835967
+Edit description;;
+Mon, 07 Mar 2016 20:18:15;xg_bag_22_16_37_wo_d_var30.csv;0.835967
+Edit description;;
+Sun, 06 Mar 2016 09:13:19;xg_bag_11_12_40_rand_5.csv;0.837979
+Edit description;;
+Sat, 05 Mar 2016 15:44:24;h2o_gbm_17_43_26_ensemble.csv;0.840524
+Edit description;;
+Sat, 05 Mar 2016 10:31:09;xg_bag_h2o_12_30_42_ensemble.csv;0.839481
+Edit description;;
+Sat, 05 Mar 2016 10:27:31;xg_bag_12_27_07_ensemble.csv;0.840225
+Edit description;;
+Sat, 05 Mar 2016 10:24:19;xg_bag_12_23_33_rand_30.csv;0.838061
+Edit description;;
+Sat, 05 Mar 2016 10:07:25;h2o_gbm_12_02_53.csv;0.790144
+Edit description;;
+Fri, 04 Mar 2016 17:44:28;xg_bag_19_43_30_ensemble.csv;0.840296
+Edit description;;
+Fri, 04 Mar 2016 12:56:31;xg_bag_14_55_44_rand_0.csv;0.836545
+Edit description;;
+Fri, 04 Mar 2016 10:53:21;xg_bag_12_43_29_rand_2.csv;0.837867
+Edit description;;
+Fri, 04 Mar 2016 08:22:46;xgboost_bugged_34_083.csv;0.839652
+Edit description;;
+Fri, 04 Mar 2016 07:29:48;xgboost_bugged_160_084.csv;0.839589
+Edit description;;
+Thu, 03 Mar 2016 12:24:39;xgboost_bugged_6.csv;0.839916
+Edit description;;
+Thu, 03 Mar 2016 11:34:18;xgboost_min_2.csv;0.835903
+Edit description;;
+Thu, 03 Mar 2016 11:32:46;xgboost_min_1.csv;0.829254
+Edit description;;
+Thu, 03 Mar 2016 11:29:35;xgboost_bagged_2_47.csv;0.839198
+Edit description;;
+Thu, 03 Mar 2016 08:58:21;xgboost_bagged_1_459.csv;0.838678
+Edit description;;
+Wed, 02 Mar 2016 22:35:06;xgboost_simple_2.csv;0.837119
+Edit description;;
+Wed, 02 Mar 2016 22:24:19;xgboost_first_simple.csv;0.837934
+Edit description;;
+Wed, 02 Mar 2016 20:59:34;xgboost_first_simple.csv;0.833002
+Edit description;;
+Wed, 02 Mar 2016 20:33:18;xgboost_first_simple.csv;0.823186
+Edit description;;
